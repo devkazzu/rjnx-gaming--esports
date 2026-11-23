@@ -1,0 +1,1 @@
+export default function Loading(){return <div className="site-container content-page" role="status" aria-busy="true"><span className="sr-only">Loading the arena</span><div className="content-stack"><div className="skeleton"/><div className="card-grid"><div className="skeleton"/><div className="skeleton"/><div className="skeleton"/></div></div></div>;}
